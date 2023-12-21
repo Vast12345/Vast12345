@@ -1,1 +1,1 @@
-<image src="[https://riotact316.files.wordpress.com/2010/06/1225858165427f.jpg](https://static.wikia.nocookie.net/ffacc27c-ccef-43b1-90aa-4d278620d8b9/scale-to-width/755)https://static.wikia.nocookie.net/ffacc27c-ccef-43b1-90aa-4d278620d8b9/scale-to-width/755" alt="ESTE SOY YO">
+<image src="https://static.wikia.nocookie.net/ffacc27c-ccef-43b1-90aa-4d278620d8b9" alt="ESTE SOY YO">
