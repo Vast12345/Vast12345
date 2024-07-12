@@ -14,5 +14,5 @@ I'm passionate about crafting solutions with Python, mastering web development, 
 </h2>
 
 <h2 align="center">
- <img width="1000" src="assets/snake-contributions.svg" alt="snake"/>
+ <img width="1000" src="asssets/snake-contributions.svg" alt="snake"/>
 </h2>
